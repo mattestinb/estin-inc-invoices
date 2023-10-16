@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(66, 207, 207);
+}
+
+.populateBox{
+    background-color: white;
+    border: solid 2px black;
+    width: 150px;
+    height: 35px;
+    padding: 5px;
+    align-items: center;
+    justify-content: center;
+}

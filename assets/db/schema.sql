@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS estin_inc_db;
+CREATE DATABASE estin_inc_db;
